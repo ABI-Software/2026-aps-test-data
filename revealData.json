@@ -1,0 +1,720 @@
+[
+  {
+    "doi": "https://doi.org/10.26275/mf4h-kzbs",
+    "name": "Test Reveal dataset",
+    "description": "This dataset captures a simple blood volume control FC map, consisting of the mathematical model, simulation protocols, and visual maps for use on the SPARC Portal.",
+    "updated": "2025-10-10",
+    "publishDate": "2025-09-17T00:00:45.942182Z",
+    "datasetId": "462",
+    "detailsReady": true,
+    "abi-contextual-information": [],
+    "additionalLinks": false,
+    "contributors": [
+        {
+            "affiliations": [
+                {
+                    "description": "University of Auckland"
+                }
+            ],
+            "curie": "ORCID:0000-0003-4667-9779",
+            "first": {
+                "name": "David"
+            },
+            "last": {
+                "name": "Nickerson"
+            },
+            "name": "Nickerson, David",
+            "uri": "https://orcid.org/0000-0003-4667-9779"
+        },
+        {
+            "affiliations": [
+                {
+                    "description": "University of Auckland"
+                }
+            ],
+            "curie": "ORCID:0000-0002-6758-2186",
+            "first": {
+                "name": "David"
+            },
+            "last": {
+                "name": "Brooks"
+            },
+            "name": "Brooks, David",
+            "uri": "https://orcid.org/0000-0002-6758-2186"
+        },
+        {
+            "affiliations": [
+                {
+                    "description": "University of Auckland"
+                }
+            ],
+            "curie": "ORCID:0000-0001-8610-1088",
+            "first": {
+                "name": "Shelley"
+            },
+            "last": {
+                "name": "Fong"
+            },
+            "name": "Fong, Shelley",
+            "uri": "https://orcid.org/0000-0001-8610-1088"
+        },
+        {
+            "affiliations": [
+                {
+                    "description": "University of Auckland"
+                }
+            ],
+            "curie": "ORCID:0000-0001-9665-4145",
+            "first": {
+                "name": "Peter"
+            },
+            "last": {
+                "name": "Hunter"
+            },
+            "name": "Hunter, Peter",
+            "uri": "https://orcid.org/0000-0001-9665-4145"
+        }
+    ],
+    "dataset_identifier": "462",
+    "dataset_revision": "",
+    "dataset_version": "1",
+    "s3uri": "s3://sparc-prod-aod-discover-publish50-use1/462/",
+    "sampleSize": false,
+    "subjectSize": false,
+    "title": "Test Reveal dataset",
+    "took": 0,
+    "uri": false,
+    "version": "1.2.1",
+    "numberSamples": 0,
+    "numberSubjects": 0,
+    "datasetRevision": "",
+    "datasetVersion": "2",
+    "thumbnails": [
+        {
+            "additional_mimetype": {
+                "name": "image/x.vnd.abi.thumbnail+jpeg"
+            },
+            "datacite": {
+                "describes": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "hasMetadata": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDerivedFrom": {
+                    "path": [
+                        "primary/baseline-simulation.omex"
+                    ],
+                    "relative": {
+                        "path": [
+                            "primary/baseline-simulation.omex"
+                        ]
+                    }
+                },
+                "isDescribedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isMetadataFor": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSourceOf": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementTo": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "supplemental_json_metadata": {
+                    "description": ""
+                }
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "primary/baseline-simulation.jpeg"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".jpeg"
+            },
+            "identifier": "package:f839fad6-acf9-4513-ad6f-2d8b1e55b17a",
+            "mimetype": {
+                "name": "image/jpeg"
+            },
+            "name": "baseline-simulation.jpeg"
+        },
+        {
+            "additional_mimetype": {
+                "name": "image/x.vnd.abi.thumbnail+jpeg"
+            },
+            "datacite": {
+                "describes": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "hasMetadata": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDerivedFrom": {
+                    "path": [
+                        "primary/eat-drink-simulation.omex"
+                    ],
+                    "relative": {
+                        "path": [
+                            "primary/eat-drink-simulation.omex"
+                        ]
+                    }
+                },
+                "isDescribedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isMetadataFor": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSourceOf": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementTo": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "supplemental_json_metadata": {
+                    "description": ""
+                }
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "primary/eat-drink-simulation.jpeg"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".jpeg"
+            },
+            "identifier": "package:794eed19-9e46-4bb4-9b4c-0ac44b4b88f3",
+            "mimetype": {
+                "name": "image/jpeg"
+            },
+            "name": "eat-drink-simulation.jpeg"
+        },
+        {
+            "additional_mimetype": {
+                "name": "image/x.vnd.abi.thumbnail+jpeg"
+            },
+            "datacite": {
+                "describes": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "hasMetadata": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDerivedFrom": {
+                    "path": [
+                        "code/map/BloodVolumeControl.manifest.json"
+                    ],
+                    "relative": {
+                        "path": [
+                            "code/map/BloodVolumeControl.manifest.json"
+                        ]
+                    }
+                },
+                "isDescribedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isMetadataFor": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSourceOf": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementTo": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "supplemental_json_metadata": {
+                    "description": ""
+                }
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "code/map/BloodVolumeControl.jpeg"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".jpeg"
+            },
+            "identifier": "package:211bc7f8-1f6d-44fe-ba60-490eea5fc18a",
+            "mimetype": {
+                "name": "image/jpeg"
+            },
+            "name": "BloodVolumeControl.jpeg"
+        }
+    ],
+    "simulation": [
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
+            },
+            "datacite": {
+                "describes": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "hasMetadata": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDerivedFrom": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDescribedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isMetadataFor": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSourceOf": {
+                    "path": [
+                        "primary/baseline-simulation.jpeg"
+                    ],
+                    "relative": {
+                        "path": [
+                            "primary/baseline-simulation.jpeg"
+                        ]
+                    }
+                },
+                "isSupplementTo": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "supplemental_json_metadata": {
+                    "description": ""
+                }
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "primary/baseline-simulation.omex"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".omex"
+            },
+            "identifier": "package:83658579-9726-4347-a69e-eaf640aeb6c3",
+            "mimetype": {
+                "name": ""
+            },
+            "name": "baseline-simulation.omex"
+        },
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
+            },
+            "datacite": {
+                "describes": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "hasMetadata": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDerivedFrom": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDescribedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isMetadataFor": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSourceOf": {
+                    "path": [
+                        "primary/eat-drink-simulation.jpeg"
+                    ],
+                    "relative": {
+                        "path": [
+                            "primary/eat-drink-simulation.jpeg"
+                        ]
+                    }
+                },
+                "isSupplementTo": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "supplemental_json_metadata": {
+                    "description": ""
+                }
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "primary/eat-drink-simulation.omex"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".omex"
+            },
+            "identifier": "package:308b9b8b-0f39-4b1f-89c6-ac6e7b10462a",
+            "mimetype": {
+                "name": ""
+            },
+            "name": "eat-drink-simulation.omex"
+        }
+    ],
+    "flatmaps": [
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.flatmap+json"
+            },
+            "associated_flatmap": {
+                "identifier": "e81e3f3a-ed2f-5610-99ae-e019deae614a"
+            },
+            "datacite": {
+                "describes": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "hasMetadata": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDerivedFrom": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isDescribedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isMetadataFor": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSourceOf": {
+                    "path": [
+                        "code/map/BloodVolumeControl.jpeg"
+                    ],
+                    "relative": {
+                        "path": [
+                            "code/map/BloodVolumeControl.jpeg"
+                        ]
+                    }
+                },
+                "isSupplementTo": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "isSupplementedBy": {
+                    "path": [
+                        ""
+                    ],
+                    "relative": {
+                        "path": [
+                            ""
+                        ]
+                    }
+                },
+                "supplemental_json_metadata": {
+                    "description": ""
+                }
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "code/map/BloodVolumeControl.manifest.json"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".json"
+            },
+            "identifier": "package:c3adb5e4-41f7-4f34-9833-f4fdfd6f5e56",
+            "mimetype": {
+                "name": "application/json"
+            },
+            "name": "BloodVolumeControl.manifest.json"
+        }
+    ]
+  }
+]
