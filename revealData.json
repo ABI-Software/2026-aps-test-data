@@ -288,14 +288,14 @@
                 "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
             },
             "thumbnail": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/primary/hypercapnea.png"
+              "url": "https://mapcore-demo.org/proxy-2026-APS/reveal/hypercapnea.png"
             },
             "resource": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/primary/hypercapnea-simulation.omex"
+              "url": "https://mapcore-demo.org/proxy-2026-APS/reveal/hypercapnea-simulation.omex"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
-                "path": "primary/hypercapnea-simulation.omex"
+                "path": "reveal/hypercapnea-simulation.omex"
             },
             "description": "",
             "file_type": {
