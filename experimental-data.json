@@ -1,0 +1,58 @@
+[
+    {
+        "csv_file": "experimental-data/hypercapnea/v_RVLM-with-noise.csv",
+        "description": "Sympathetic activity during hypercapnea simulation",
+        "protocol": "https://mapcore-demo.org/proxy-2026-APS/reveal/hypercapnea-simulation.omex",
+        "thumbnail": "experimental-data/hypercapnea/v_RVLM-with-noise.csv.png",
+        "columns": [
+            {
+                "name": "t",
+                "cellml_variable": "main/t"
+            },
+            {
+                "name": "v_RVLM",
+                "cellml_variable": "main/v_RVLM",
+                "anatomic_location": "UBERON:0005807"
+            }
+        ]
+    },
+    {
+        "csv_file": "experimental-data/vagal-stimulation/pressure-15Hz-stimulus-with-noise.csv",
+        "description": "Heart rate during vagal stimulation simulation",
+        "protocol": "https://mapcore-demo.org/proxy-2026-APS/reveal/vagal-stimulation-simulation.omex",
+        "thumbnail": "experimental-data/vagal-stimulation/pressure-15Hz-stimulus-with-noise.csv.png",
+        "columns": [
+            {
+                "name": "t",
+                "cellml_variable": "main/t"
+            },
+            {
+                "name": "heart_period",
+                "cellml_variable": "main/T_wCont",
+                "anatomic_location": "UBERON:0000948"
+            }
+        ]
+    },
+    {
+        "csv_file": "experimental-data/vagal-stimulation/pressure-15Hz-stimulus-with-noise.csv",
+        "description": "Blood pressure during vagal stimulation simulation",
+        "protocol": "https://mapcore-demo.org/proxy-2026-APS/reveal/vagal-stimulation-simulation.omex",
+        "thumbnail": "experimental-data/vagal-stimulation/pressure-15Hz-stimulus-with-noise.csv.png",
+        "columns": [
+            {
+                "name": "t",
+                "cellml_variable": "main/t"
+            },
+            {
+                "name": "left_ventricle_pressure",
+                "cellml_variable": "main/u_lv",
+                "anatomic_location": "UBERON:0002084"
+            },
+            {
+                "name": "ascending_aorta_pressure",
+                "cellml_variable": "main/u_AA",
+                "anatomic_location": "UBERON:0001496"
+            }
+        ]
+    }
+]
