@@ -1,4 +1,4 @@
-t,Left ventricular pressure,Ascending aorta pressure
+t,left_ventricle_pressure,ascending_aorta_pressure
 0.0,3.67732260085345,7.444639309019804
 0.01,2.679678816669164,5.922541313710548
 0.02,3.257384137531592,7.876270133434629
