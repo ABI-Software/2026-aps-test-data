@@ -17,10 +17,10 @@
         ]
     },
     {
-        "csv_file": "./experimental-data/vagal-stimulation/pressure-15Hz-stimulus-with-noise.csv",
+        "csv_file": "./experimental-data/vagal-stimulation/heart-period-15Hz-stimulus-with-noise.csv",
         "description": "Heart rate during vagal stimulation simulation",
         "protocol": "./reveal/vagal-stimulation-simulation.omex",
-        "thumbnail": "./experimental-data/vagal-stimulation/pressure-15Hz-stimulus-with-noise.csv.png",
+        "thumbnail": "./experimental-data/vagal-stimulation/heart-period-15Hz-stimulus-with-noise.csv.png",
         "columns": [
             {
                 "name": "t",
