@@ -308,6 +308,32 @@
             "name": "hypercapnea-simulation.omex"
         }
     ],
+    "simulation-protocols": [
+      {
+          "additional_mimetype": {
+            "name": "application/x.vnd.abi.simulation.protocols+json"
+          },
+          "thumbnail": {
+            "url": "./reveal/vagal-stimulation.png"
+          },
+          "resource": {
+            "url": "./experimental-data.json"
+          },
+          "dataset": {
+              "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+              "path": "experimental-data.json"
+          },
+          "description": "",
+          "file_type": {
+              "name": ".json"
+          },
+          "identifier": "package:83658579-9726-4347-a69e-eaf640aeb6c3",
+          "mimetype": {
+              "name": ""
+          },
+          "name": "experimental-data.json"
+      }
+    ],
     "flatmaps": [
         {
             "additional_mimetype": {
