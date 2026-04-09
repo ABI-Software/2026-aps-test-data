@@ -1,7 +1,7 @@
 [
   {
     "doi": "https://doi.org/10.26275/temp",
-    "thumbnail": "https://mapcore-demo.org/proxy-2026-APS/dataset_banner.jpg",
+    "thumbnail": "./dataset_banner.jpg",
     "name": "Test Reveal dataset",
     "description": "This dataset captures a simple blood volume control FC map, consisting of the mathematical model, simulation protocols, and visual maps for use on the SPARC Portal.",
     "updated": "2025-10-10",
@@ -96,10 +96,10 @@
                 "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
             },
             "thumbnail": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/primary/baseline-simulation.jpeg"
+              "url": "./primary/baseline-simulation.jpeg"
             },
             "resource": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/primary/baseline-simulation.omex"
+              "url": "./primary/baseline-simulation.omex"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
@@ -120,10 +120,10 @@
                 "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
             },
             "thumbnail": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/primary/eat-drink-simulation.jpeg"
+              "url": "./primary/eat-drink-simulation.jpeg"
             },
             "resource": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/primary/eat-drink-simulation.omex"
+              "url": "./primary/eat-drink-simulation.omex"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
@@ -161,7 +161,7 @@
                 "name": "application/json"
             },
             "thumbnail": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/flatmap.jpeg"
+              "url": "./flatmap.jpeg"
             },
             "name": "BloodVolumeControl.manifest.json"
         }
@@ -169,7 +169,7 @@
   },
     {
     "doi": "https://doi.org/10.26275/temp2",
-    "thumbnail": "https://mapcore-demo.org/proxy-2026-APS/reveal/banner.jpg",
+    "thumbnail": "./reveal/banner.jpg",
     "name": "Test Reveal FC map dataset",
     "description": "This dataset captures a preliminary FC map relevant to the REVEAL project, consisting of the mathematical model, simulation protocols, and visual maps for use on the SPARC Portal.",
     "updated": "2026-04-02",
@@ -264,10 +264,10 @@
                 "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
             },
             "thumbnail": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/reveal/vagal-stimulation.png"
+              "url": "./reveal/vagal-stimulation.png"
             },
             "resource": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/reveal/vagal-stimulation-simulation.omex"
+              "url": "./reveal/vagal-stimulation-simulation.omex"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
@@ -288,10 +288,10 @@
                 "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
             },
             "thumbnail": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/reveal/hypercapnea.png"
+              "url": "./reveal/hypercapnea.png"
             },
             "resource": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/reveal/hypercapnea-simulation.omex"
+              "url": "./reveal/hypercapnea-simulation.omex"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
@@ -329,7 +329,7 @@
                 "name": "application/json"
             },
             "thumbnail": {
-              "url": "https://mapcore-demo.org/proxy-2026-APS/flatmap.jpeg"
+              "url": "./flatmap.jpeg"
             },
             "name": "BloodVolumeControl.manifest.json"
         }
