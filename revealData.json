@@ -355,9 +355,33 @@
                 "name": "application/json"
             },
             "thumbnail": {
-              "url": "./flatmap.jpeg"
+              "url": "./reveal/banner.jpg"
             },
             "name": "BloodVolumeControl.manifest.json"
+        },
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.flatmap+json"
+            },
+            "associated_flatmap": {
+                "identifier": "6a1fe04d-3a79-5cdd-afb9-66555d578534"
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "Code/Maps/ac-female/manifest.minimal.json"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".json"
+            },
+            "identifier": "package:c3adb5e4-41f7-4f34-9833-f4fdfd6f5e56",
+            "mimetype": {
+                "name": "application/json"
+            },
+            "thumbnail": {
+              "url": "./reveal/flatmap-minimal.jpg"
+            },
+            "name": "manifest.minimal.json"
         }
     ]
   }
