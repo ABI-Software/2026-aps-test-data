@@ -172,7 +172,7 @@
     "thumbnail": "./reveal/banner.jpg",
     "name": "Test Reveal FC map dataset",
     "description": "This dataset captures a preliminary FC map relevant to the REVEAL project, consisting of the mathematical model, simulation protocols, and visual maps for use on the SPARC Portal.",
-    "updated": "2026-04-02",
+    "updated": "2026-04-21",
     "publishDate": "2025-09-17T00:00:45.942182Z",
     "datasetId": "1024",
     "detailsReady": true,
@@ -340,7 +340,7 @@
                 "name": "application/x.vnd.abi.flatmap+json"
             },
             "associated_flatmap": {
-                "identifier": "7720709d-683c-5def-a1e5-8d7c3b0784f7"
+                "identifier": "3d672d1b-00ab-5c21-94cd-0ccb4b827981"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
@@ -357,14 +357,14 @@
             "thumbnail": {
               "url": "./reveal/banner.jpg"
             },
-            "name": "BloodVolumeControl.manifest.json"
+            "name": "Bond Graph Map"
         },
         {
             "additional_mimetype": {
                 "name": "application/x.vnd.abi.flatmap+json"
             },
             "associated_flatmap": {
-                "identifier": "6a1fe04d-3a79-5cdd-afb9-66555d578534"
+                "identifier": "715fa0dd-e1d3-5229-9036-d63686baf6d9"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
@@ -381,7 +381,7 @@
             "thumbnail": {
               "url": "./reveal/flatmap-minimal.jpg"
             },
-            "name": "manifest.minimal.json"
+            "name": "Minimal Anatomical Map"
         }
     ]
   }
