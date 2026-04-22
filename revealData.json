@@ -306,6 +306,30 @@
                 "name": ""
             },
             "name": "hypercapnea-simulation.omex"
+        },
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
+            },
+            "thumbnail": {
+              "url": "./reveal/eating-and-drinking.png"
+            },
+            "resource": {
+              "url": "./reveal/eating-and-drinking-simulation.omex"
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "reveal/eating-and-drinking-simulation.omex"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".omex"
+            },
+            "identifier": "package:308b9b8b-0f39-4b1f-89c6-ac6e7b10462a",
+            "mimetype": {
+                "name": ""
+            },
+            "name": "Eating and drinking"
         }
     ],
     "simulation-protocols": [
