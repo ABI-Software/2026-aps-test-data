@@ -238,6 +238,30 @@
               "url": "./reveal/flatmap-minimal.jpg"
             },
             "name": "Minimal Anatomical Map"
+        },
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.flatmap+json"
+            },
+            "associated_flatmap": {
+                "identifier": "0e35eefc-bc54-568d-ba2e-8153f70368b1"
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "Code/Maps/artery-map/manifest.minimal.json"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".json"
+            },
+            "identifier": "package:c3adb5e4-41f7-4f34-9833-f4fdfd6f5e56",
+            "mimetype": {
+                "name": "application/json"
+            },
+            "thumbnail": {
+              "url": "./reveal/flatmap-minimal.jpg"
+            },
+            "name": "Minimal Arborizer Map"
         }
     ]
   }
