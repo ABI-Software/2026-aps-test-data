@@ -400,6 +400,30 @@
               "url": "./arborizer-simple/mapv2-banner.jpg"
             },
             "name": "Minimal Arborizer Map v2"
+        },
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.flatmap+json"
+            },
+            "associated_flatmap": {
+                "identifier": "3e5361b0-2576-594e-afbf-e4dc8afd1d50"
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "Code/Maps/artery-map/manifest-v3.minimal.json"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".json"
+            },
+            "identifier": "package:c3adb5e4-41f7-4f34-9833-f4fdfd6f5e56",
+            "mimetype": {
+                "name": "application/json"
+            },
+            "thumbnail": {
+              "url": "./arborizer-simple/mapv2-banner.jpg"
+            },
+            "name": "Minimal Arborizer Map v3"
         }
     ]
   }
