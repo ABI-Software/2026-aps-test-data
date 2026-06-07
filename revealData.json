@@ -238,7 +238,121 @@
               "url": "./reveal/flatmap-minimal.jpg"
             },
             "name": "Minimal Anatomical Map"
+        }
+    ]
+  },
+  {
+    "doi": "https://doi.org/10.26275/temp3",
+    "thumbnail": "./arborizer-simple/banner.jpg",
+    "name": "Arborizer to FC map dataset",
+    "description": "Testing out an FC map generated from the Arborizer simple model, which includes a subset of the full human model focused on the arterial system.",
+    "updated": "2026-06-07",
+    "publishDate": "2025-09-17T00:00:45.942182Z",
+    "datasetId": "1025",
+    "detailsReady": true,
+    "abi-contextual-information": [],
+    "additionalLinks": false,
+    "contributors": [
+        {
+            "affiliations": [
+                {
+                    "description": "University of Auckland"
+                }
+            ],
+            "curie": "ORCID:0000-0003-4667-9779",
+            "first": {
+                "name": "David"
+            },
+            "last": {
+                "name": "Nickerson"
+            },
+            "name": "Nickerson, David",
+            "uri": "https://orcid.org/0000-0003-4667-9779"
         },
+        {
+            "affiliations": [
+                {
+                    "description": "University of Auckland"
+                }
+            ],
+            "curie": "ORCID:0000-0002-8769-2454",
+            "first": {
+                "name": "Beatrice"
+            },
+            "last": {
+                "name": "Ghitti"
+            },
+            "name": "Ghitti, Beatrice",
+            "uri": "https://orcid.org/0000-0002-8769-2454"
+        }
+    ],
+    "dataset_identifier": "1025",
+    "dataset_revision": "",
+    "dataset_version": "1",
+    "s3uri": "unused",
+    "sampleSize": false,
+    "subjectSize": false,
+    "title": "Arborizer FC map",
+    "took": 0,
+    "uri": false,
+    "version": "1.2.1",
+    "numberSamples": 0,
+    "numberSubjects": 0,
+    "datasetRevision": "",
+    "datasetVersion": "2",
+    "simulation": [
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
+            },
+            "thumbnail": {
+              "url": "./arborizer-simple/arborizer-simple-simulation.png"
+            },
+            "resource": {
+              "url": "./arborizer-simple/arborizer_simple_model_simulation.omex"
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "arborizer-simple/arborizer_simple_model_simulation.omex"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".omex"
+            },
+            "identifier": "package:83658579-9726-4347-a69e-eaf640aeb6c3",
+            "mimetype": {
+                "name": ""
+            },
+            "name": "Cardiac flow input"
+        }
+    ],
+    "simulation-protocols": [
+      {
+          "additional_mimetype": {
+            "name": "application/x.vnd.abi.simulation.protocols+json"
+          },
+          "thumbnail": {
+            "url": "./arborizer-simple/arborizer-simple-simulation.png"
+          },
+          "resource": {
+            "url": "./experimental-data.json"
+          },
+          "dataset": {
+              "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+              "path": "experimental-data.json"
+          },
+          "description": "",
+          "file_type": {
+              "name": ".json"
+          },
+          "identifier": "package:83658579-9726-4347-a69e-eaf640aeb6c3",
+          "mimetype": {
+              "name": ""
+          },
+          "name": "experimental-data.json"
+      }
+    ],
+    "flatmaps": [
         {
             "additional_mimetype": {
                 "name": "application/x.vnd.abi.flatmap+json"
@@ -259,9 +373,33 @@
                 "name": "application/json"
             },
             "thumbnail": {
-              "url": "./reveal/flatmap-minimal.jpg"
+              "url": "./arborizer-simple/mapv1-banner.jpg"
             },
-            "name": "Minimal Arborizer Map"
+            "name": "Minimal Arborizer Map v1"
+        },
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.flatmap+json"
+            },
+            "associated_flatmap": {
+                "identifier": "cbb96dc0-d884-5a62-bbbb-9c951ec0f23b"
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "Code/Maps/artery-map/manifest.minimal.json"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".json"
+            },
+            "identifier": "package:c3adb5e4-41f7-4f34-9833-f4fdfd6f5e56",
+            "mimetype": {
+                "name": "application/json"
+            },
+            "thumbnail": {
+              "url": "./arborizer-simple/mapv2-banner.jpg"
+            },
+            "name": "Minimal Arborizer Map v2"
         }
     ]
   }
