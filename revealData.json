@@ -309,7 +309,7 @@
               "url": "./arborizer-simple/arborizer-simple-simulation.png"
             },
             "resource": {
-              "url": "./arborizer-simple/arborizer_simple_model_simulation.omex"
+              "url": "./arborizer-simple/arborizer_simple_model_flat.omex"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
