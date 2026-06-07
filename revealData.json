@@ -313,7 +313,7 @@
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
-                "path": "arborizer-simple/arborizer_simple_model_simulation.omex"
+                "path": "arborizer-simple/arborizer_simple_model_flat.omex"
             },
             "description": "",
             "file_type": {
@@ -362,7 +362,7 @@
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
-                "path": "Code/Maps/artery-map/manifest.minimal.json"
+                "path": "Code/Maps/artery-map/manifest-v1.minimal.json"
             },
             "description": "",
             "file_type": {
@@ -386,7 +386,7 @@
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
-                "path": "Code/Maps/artery-map/manifest.minimal.json"
+                "path": "Code/Maps/artery-map/manifest-v2.minimal.json"
             },
             "description": "",
             "file_type": {
