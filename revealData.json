@@ -167,7 +167,7 @@
         }
     ]
   },
-    {
+  {
     "doi": "https://doi.org/10.26275/temp2",
     "thumbnail": "./reveal/banner.jpg",
     "name": "Test Reveal FC map dataset",
