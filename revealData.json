@@ -631,7 +631,7 @@
                 "name": "application/json"
             },
             "thumbnail": {
-              "url": "./epithelial-cell/banner.png"
+              "url": "./epithelial-cell/map-thumbnail.png"
             },
             "name": "Epithelial Cell Map"
         }
