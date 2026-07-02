@@ -523,5 +523,118 @@
       "name": "manifest.json"
     }
   ]
-}
+},
+  {
+    "doi": "https://doi.org/10.26275/temp5",
+    "thumbnail": "./epithelial-cell/banner.png",
+    "name": "Epithelial Cell FC Map",
+    "description": "Epithelial cell model and associated FC map for testing purposes. Using Peter's enterocyte model as a base, with an associated map for testing purposes.",
+    "updated": "2026-07-02",
+    "publishDate": "2026-07-02T00:00:45.942182Z",
+    "datasetId": "1027",
+    "detailsReady": true,
+    "abi-contextual-information": [],
+    "additionalLinks": false,
+    "contributors": [
+        {
+            "affiliations": [
+                {
+                    "description": "University of Auckland"
+                }
+            ],
+            "curie": "ORCID:0000-0003-4667-9779",
+            "first": {
+                "name": "David"
+            },
+            "last": {
+                "name": "Nickerson"
+            },
+            "name": "Nickerson, David",
+            "uri": "https://orcid.org/0000-0003-4667-9779"
+        },
+        {
+            "affiliations": [
+                {
+                    "description": "University of Auckland"
+                }
+            ],
+            "curie": "ORCID:0000-0001-9665-4145",
+            "first": {
+                "name": "Peter"
+            },
+            "last": {
+                "name": "Hunter"
+            },
+            "name": "Hunter, Peter",
+            "uri": "https://orcid.org/0000-0001-9665-4145"
+        }
+    ],
+    "dataset_identifier": "1027",
+    "dataset_revision": "",
+    "dataset_version": "1",
+    "s3uri": "unused",
+    "sampleSize": false,
+    "subjectSize": false,
+    "title": "Epithelial Cell FC Map",
+    "took": 0,
+    "uri": false,
+    "version": "1.2.1",
+    "numberSamples": 0,
+    "numberSubjects": 0,
+    "datasetRevision": "",
+    "datasetVersion": "2",
+    "simulation": [
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
+            },
+            "thumbnail": {
+              "url": "./epithelial-cell/lumen-sodium-steps-thumbnail.png"
+            },
+            "resource": {
+              "url": "./epithelial-cell/lumen-sodium-steps.omex"
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "epithelial-cell/lumen-sodium-steps.omex"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".omex"
+            },
+            "identifier": "package:83658579-9726-4347-a69e-eaf640aeb6c3",
+            "mimetype": {
+                "name": ""
+            },
+            "name": "Lumen Sodium Steps"
+        }
+    ],
+    "simulation-protocols": [],
+    "flatmaps": [
+        {
+            "additional_mimetype": {
+                "name": "application/x.vnd.abi.flatmap+json"
+            },
+            "associated_flatmap": {
+                "identifier": "92cf4a1e-a8d5-5680-909d-70cda0ff5b4d"
+            },
+            "dataset": {
+                "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
+                "path": "maps/epithelial-cell.manifest.json"
+            },
+            "description": "",
+            "file_type": {
+                "name": ".json"
+            },
+            "identifier": "package:c3adb5e4-41f7-4f34-9833-f4fdfd6f5e56",
+            "mimetype": {
+                "name": "application/json"
+            },
+            "thumbnail": {
+              "url": "./epithelial-cell/banner.png"
+            },
+            "name": "Epithelial Cell Map"
+        }
+    ]
+  }
 ]
