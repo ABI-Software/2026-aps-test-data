@@ -503,7 +503,7 @@
         "name": "application/x.vnd.abi.flatmap+json"
       },
       "associated_flatmap": {
-        "identifier": "bfbd5d8c-2db9-5a02-91f6-2e0953fd160a"
+        "identifier": "67458645-d08b-59df-bc30-d6a4c2c9f7f4"
       },
       "dataset": {
         "identifier": "dataset:aabbccdd-0000-0000-0000-000000000003",
@@ -616,7 +616,7 @@
                 "name": "application/x.vnd.abi.flatmap+json"
             },
             "associated_flatmap": {
-                "identifier": "67458645-d08b-59df-bc30-d6a4c2c9f7f4"
+                "identifier": "13117f3f-8150-5e32-a982-c65714fd9522"
             },
             "dataset": {
                 "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
