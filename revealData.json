@@ -362,13 +362,13 @@
     ]
   },
   {
-  "doi": "https://doi.org/10.26275/temp003",
-  "thumbnail": "./reveal/banner.jpg",
-  "name": "REVEAL Simple RCL FC Map dataset",
+  "doi": "https://doi.org/10.26275/temp004",
+  "thumbnail": "./rcl-simple/banner.png",
+  "name": "REVEAL Simple RCL Circuit Dataset",
   "description": "This dataset captures a preliminary FC map relevant to the REVEAL project, consisting of the mathematical model, simulation protocols, and visual maps for use on the SPARC Portal.",
-  "updated": "2026-04-27",
-  "publishDate": "2026-06-27T00:00:45.942182Z",
-  "datasetId": "1025",
+  "updated": "2026-06-29",
+  "publishDate": "2025-09-17T00:00:45.942182Z",
+  "datasetId": "1026",
   "detailsReady": true,
   "abi-contextual-information": [],
   "additionalLinks": false,
@@ -390,72 +390,47 @@
       "uri": "https://orcid.org/0000-0001-8991-4703"
     }
   ],
-  "dataset_identifier": "1025",
+  "dataset_identifier": "1026",
   "dataset_revision": "",
   "dataset_version": "1",
   "s3uri": "unused",
   "sampleSize": false,
   "subjectSize": false,
-  "title": "REVEAL Simple RCL FC Map",
+  "title": "REVEAL Simple RCL Circuit",
   "took": 0,
   "uri": false,
   "version": "1.2.1",
   "numberSamples": 0,
   "numberSubjects": 0,
   "datasetRevision": "",
-  "datasetVersion": "1",
+  "datasetVersion": "2",
   "simulation": [
     {
       "additional_mimetype": {
         "name": "application/x.vnd.abi.simulation+x.vnd.abi.omex"
       },
       "thumbnail": {
-        "url": "./reveal/hypercapnea.png"
+        "url": "./rcl-simple/RCL_Circuit.png"
       },
       "resource": {
-        "url": "./reveal/hypercapnea-simulation.omex"
+        "url": "./rcl-simple/RCL_Circuit.omex"
       },
       "dataset": {
-        "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
-        "path": "reveal/hypercapnea-simulation.omex"
+        "identifier": "dataset:aabbccdd-0000-0000-0000-000000000001",
+        "path": "rcl-simple/RCL_Circuit.omex"
       },
       "description": "",
       "file_type": {
         "name": ".omex"
       },
-      "identifier": "package:308b9b8b-0f39-4b1f-89c6-ac6e7b10462a",
+      "identifier": "package:aabbccdd-0000-0000-0000-000000000002",
       "mimetype": {
         "name": ""
       },
-      "name": "hypercapnea-simulation.omex"
+      "name": "RCL_Circuit.omex"
     }
   ],
-  "simulation-protocols": [
-    {
-      "additional_mimetype": {
-        "name": "application/x.vnd.abi.simulation.protocols+json"
-      },
-      "thumbnail": {
-        "url": "./reveal/vagal-stimulation.png"
-      },
-      "resource": {
-        "url": "./experimental-data.json"
-      },
-      "dataset": {
-        "identifier": "dataset:bb8f90d8-304a-4145-ae8d-71533a319e45",
-        "path": "experimental-data.json"
-      },
-      "description": "",
-      "file_type": {
-        "name": ".json"
-      },
-      "identifier": "package:83658579-9726-4347-a69e-eaf640aeb6c3",
-      "mimetype": {
-        "name": ""
-      },
-      "name": "experimental-data.json"
-    }
-  ],
+  "simulation-protocols": [],
   "flatmaps": [
     {
       "additional_mimetype": {
@@ -465,21 +440,21 @@
         "identifier": "67458645-d08b-59df-bc30-d6a4c2c9f7f4"
       },
       "dataset": {
-        "identifier": "dataset:bbbbaaaa-304a-4145-ae8d-71533a319e45",
-        "path": "code/map/RCL_Circuit.manifest.json"
+        "identifier": "dataset:aabbccdd-0000-0000-0000-000000000003",
+        "path": "rcl-simple/manifest.json"
       },
       "description": "",
       "file_type": {
         "name": ".json"
       },
-      "identifier": "package:abcdefgh-41f7-4f34-9833-f4fdfd6f5e56",
+      "identifier": "package:aabbccdd-0000-0000-0000-000000000004",
       "mimetype": {
         "name": "application/json"
       },
       "thumbnail": {
-        "url": "./flatmap.jpeg"
+        "url": "./rcl-simple/banner.png"
       },
-      "name": "Simple RCL Circuit"
+      "name": "manifest.json"
     }
   ]
 }
