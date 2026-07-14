@@ -434,7 +434,7 @@
   "description": "This dataset captures a preliminary FC map relevant to the REVEAL project, consisting of the mathematical model, simulation protocols, and visual maps for use on the SPARC Portal.",
   "updated": "2026-06-29",
   "publishDate": "2025-09-17T00:00:45.942182Z",
-  "datasetId": "1025",
+  "datasetId": "1026",
   "detailsReady": true,
   "abi-contextual-information": [],
   "additionalLinks": false,
@@ -456,7 +456,7 @@
       "uri": "https://orcid.org/0000-0001-8991-4703"
     }
   ],
-  "dataset_identifier": "1025",
+  "dataset_identifier": "1026",
   "dataset_revision": "",
   "dataset_version": "1",
   "s3uri": "unused",
